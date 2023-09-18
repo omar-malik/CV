@@ -12,24 +12,27 @@ technologies to be able to contribute to the needs of the consumer, as well as t
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| Working on:                  | A proffessional perfume shop site | React, Tailwind CSS |
+| [Scented Musk - Perfume Site]( https://scented-musk.vercel.app)  | A proffessional perfume shop site | React, Tailwind CSS |
+| Web technology               | simple 2 page front end | JavaScript, CSS, HTML |
+| Chrome Jumping game          | Game based off of the chrome jumping game | JavaScript, CSS, HTML |
+| Advisor workflow             | App that emulates a workflow system to book a call with an advisor and sends confirmations | React, Tailwind CSS, Typeform, Zapier, Google Sheets|
+
 
 ## Work Experience
 
-  **Lifeguard, Places for People**
+ **Lifeguard, Places for People**
 Nov 2018 — 2020
 • Supervised up to 100+ customers at a time
 • Training and team leading, and team building
 • First aid
 
- **Teachers Assistant, All Saints C of E Primary School**
+ **Teachers Assistant,Primary School**
 Jun 2017 — Jun 2017
 London
 • educating, guiding and caring for classes of 30 students from years 1 to 6
 • Planned and executed a lesson teaching year 6
 
-**Shadow Architect, Midgard Offices London Oct 2019 — Oct 2019**
+ **Shadow Architect, Midgard Offices London Oct 2019 — Oct 2019**
 • Tasked with spotting discrepancies between company plans
 • Given and took on a larger responsibility of taking a survey measurement of site
 perimeter
@@ -42,15 +45,15 @@ underrepresented architects
 
 
 ## EXTRA CURRICULAR
- Snowdon hike to raise money for charity week
+ **Snowdon hike to raise money for charity week**
 October 2021
 • Coordinated and communicated to my peers to safely climb up and down, and accompany/ aid those who were finding the path and manoeuvres difficult
-Fundraising coordinator and volunteer | Canterbury Mosque October to Nov 2021
+**Fundraising coordinator and volunteer | Canterbury Mosque October to Nov 2021**
 • Assisted the organisation of a charity auction dinner hosted at a venue in Canterbury
 • of food to customers/ donors
 Voluntary teaching for visiting schools | Canterbury Mosque June 2022
 • Taught groups of year 2 children
-Canterbury Homeless Outreach | University of Kent
+**Canterbury Homeless Outreach | University of Kent**
 • Delivered to homeless in teams
 Martial arts | University of Kent, and London, ongoing
 • Practising and training MMA for over a year, including Muay Thai, striking,
