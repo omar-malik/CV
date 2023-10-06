@@ -23,7 +23,7 @@ technologies to be able to contribute to the needs of the consumer, as well as t
  **Lifeguard, Places for People**
 Nov 2018 — 2020:  
   •  Supervised up to 100+ customers at a time  
-  •  Training and team leading, and team building
+  •  Training and team leading, and team building  
   •  First aid
 
  **Teachers Assistant,Primary School**
