@@ -77,9 +77,9 @@ demographics
 
 
 ## Hobbies
-
+  • volunteering  
   • calisthenics, basic gymnastics, kettlebell and weight training,
 swimming, rock climbing.  
-  • Practising and training MMA for over a year, including Muay Thai, striking,  
-  • Competed after only a few months of training (and lost) because the coach said I'd be allowed, and entered a division 10kg above my weight class
-  • volunteering
+  • Practising and training mma, including Muay Thai, striking,  
+  • Competed after only a few months of training (and lost) because the coach said I'd be allowed, and entered a division 10kg above my weight class  
+
