@@ -26,10 +26,10 @@ Nov 2018 — 2020:
   •  Training and team leading, and team building  
   •  First aid
 
- **Teachers Assistant,Primary School**
-Jun 2017 — Jun 2017, London
-•educating, guiding and caring for classes of 30 students from years 1 to 6
-•Planned and executed a lesson teaching year 6
+ **Teachers Assistant,Primary School**  
+Jun 2017 — Jun 2017, London  
+  •educating, guiding and caring for classes of 30 students from years 1 to 6
+  •Planned and executed a lesson teaching year 6
 
  **Shadow Architect, Midgard Offices London Oct 2019 — Oct 2019**
 •Tasked with spotting discrepancies between company plans
