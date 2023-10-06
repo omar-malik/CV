@@ -15,7 +15,8 @@ technologies to be able to contribute to the needs of the consumer, as well as t
 | [Scented Musk - Perfume Site]( https://scented-musk.vercel.app)  | A proffessional perfume shop site | React, Tailwind CSS |
 | Web technology               | simple 2 page front end | JavaScript, CSS, HTML |
 | Chrome Jumping game          | Game based off of the chrome jumping game | JavaScript, CSS, HTML |
-| Advisor workflow             | App that emulates a workflow system to book a call with an advisor and sends confirmations | React, Tailwind CSS, Typeform, Zapier, Google Sheets|
+| Advisor workflow             | App that emulates a workflow system to book a call with an advisor and sends confirmations | React, Tailwind CSS, Typeform,
+| Zapier, Google Sheets|
 
 
 ## Work Experience
