@@ -21,11 +21,10 @@ technologies to be able to contribute to the needs of the consumer, as well as t
 ## Work Experience
 
  **Lifeguard, Places for People**
-Nov 2018 — 2020:
-
-•Supervised up to 100+ customers at a time
-•Training and team leading, and team building
-•First aid
+Nov 2018 — 2020:  
+  •Supervised up to 100+ customers at a time
+  •Training and team leading, and team building
+  •First aid
 
  **Teachers Assistant,Primary School**
 Jun 2017 — Jun 2017, London
