@@ -1,12 +1,6 @@
 ## Omar Malik
 
--- Software Engineering at Makers academy
-
--- Love working with people, whether it’s clients, networking, learning or the team
-
--- I want to continue to learn how to develop impactful applications and
-
-technologies to be able to contribute to the needs of the consumer, as well as the developer
+I love to learn and work with people, whether it’s clients, networking or with the team. I have experience as a Software Developer, coming from Makers Academy Software Engineering course as well as being self taught
 
 ## Projects
 
@@ -19,6 +13,13 @@ technologies to be able to contribute to the needs of the consumer, as well as t
 
 
 ## Work Experience
+
+**Junior Full Stack Engineer, The Online School UK**
+Nov 2023 - Apr 2024:
+PHP, JavaScript, MYSQL, CSS
+Developing real solutions using Git and Bitbucket
+Working and collaborating with senior developers to deliver work to standard
+
 
  **Lifeguard, Places for People**
 Nov 2018 — 2020:  
